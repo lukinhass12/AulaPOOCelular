@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.genruntimeconfig.cache
